@@ -34,10 +34,8 @@ homebrew_cask_package_names:
   - hipchat
   - iterm2
   - mongohub
-  - opera
   - sequel-pro
   - skitch
   - slack
   - sublime-text
-  - vagrant
-  - virtualbox
+  - pycharm-ce
