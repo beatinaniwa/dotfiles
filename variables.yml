@@ -32,6 +32,7 @@ homebrew_cask_package_names:
   - evernote
   - firefox
   - flashlight
+  - flux
   - github
   - google-chrome
   - google-japanese-ime
@@ -39,8 +40,8 @@ homebrew_cask_package_names:
   - hipchat
   - iterm2
   - mongohub
+  - pycharm-ce
   - sequel-pro
   - skitch
   - slack
   - sublime-text
-  - pycharm-ce
