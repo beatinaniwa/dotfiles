@@ -1,0 +1,14 @@
+resources:
+  - type: command
+    script: brew update
+  <%- homebrew_package_names.each do |homebrew_package_name| -%>
+  - type: homebrew_package
+    name: <%= homebrew_package_name %>
+  <%- end -%>
+  <%- homebrew_cask_package_names.each do |homebrew_cask_package_name| -%>
+  - type: homebrew_cask_package
+    name: <%= homebrew_cask_package_name %>
+  <%- end -%>
+  - type: rbenv_ruby
+    version: 2.1.6
+    global: true

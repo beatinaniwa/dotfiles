@@ -1,0 +1,43 @@
+homebrew_package_names:
+  - caskroom/cask/brew-cask
+  - git
+  - go
+  - hub
+  - jq
+  - monochromegane/hoi/hoi
+  - motemen/ghq/ghq
+  - mysql
+  - node
+  - peco
+  - rbenv
+  - rbenv-default-gems
+  - redis
+  - tig
+  - tmux
+  - tree
+  - vim
+  - wget
+  - zsh
+
+homebrew_cask_package_names:
+  - atom
+  - colors
+  - dash
+  - dropbox
+  - evernote
+  - firefox
+  - flashlight
+  - github
+  - google-chrome
+  - google-japanese-ime
+  - gyazo
+  - hipchat
+  - iterm2
+  - mongohub
+  - opera
+  - sequel-pro
+  - skitch
+  - slack
+  - sublime-text
+  - vagrant
+  - virtualbox
