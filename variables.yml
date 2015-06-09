@@ -1,16 +1,22 @@
 homebrew_package_names:
   - caskroom/cask/brew-cask
+  - cmake
   - git
   - go
   - hub
+  - imagemagick
   - jq
   - mysql
   - node
+  - openssl
   - peco
   - pyenv
   - pyenv-virtualenv
   - rbenv
+  - rbenv-default-gems
+  - readline
   - redis
+  - ruby-build
   - tig
   - tmux
   - tree
