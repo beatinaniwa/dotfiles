@@ -1,5 +1,5 @@
 # dotfiles [![Build Status](https://travis-ci.org/beatinaniwa/dotfiles.svg?branch=master)](https://travis-ci.org/beatinaniwa/dotfiles)
-My dotfiles
+My dotfiles, mainly for Serverkit
 
 ## Usage
 ```sh
