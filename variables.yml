@@ -6,6 +6,8 @@ homebrew_package_names:
   - hub
   - imagemagick
   - jq
+  - libxml2
+  - libxslt
   - mysql
   - node
   - openssl
