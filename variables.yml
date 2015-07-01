@@ -8,6 +8,7 @@ homebrew_package_names:
   - jq
   - libxml2
   - libxslt
+  - mitmproxy
   - mysql
   - node
   - openssl
