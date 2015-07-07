@@ -9,6 +9,8 @@ homebrew_package_names:
   - jq
   - libxml2
   - libxslt
+  - mecab
+  - mecab-ipadic
   - mitmproxy
   - mysql
   - node
