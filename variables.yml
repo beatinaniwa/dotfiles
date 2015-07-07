@@ -12,6 +12,7 @@ homebrew_package_names:
   - mecab
   - mecab-ipadic
   - mitmproxy
+  - mongodb
   - mysql
   - node
   - openssl
